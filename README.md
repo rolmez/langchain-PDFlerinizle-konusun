@@ -2,6 +2,10 @@
 
 > Projenin açıklamasını [Medium](https://medium.com/@ramazanolmeez) adresinde bulabilirsiniz.
 
+
+https://github.com/rolmez/langchain-PDFlerinizle-konusun/assets/32552764/b6834847-6e20-4b5c-9718-cdac1f986815
+
+
 ## Giriş
 ------------
 Bu uygulama, birden fazla PDF dosyasına sorular sormanıza olanak tanıyan bir Python uygulamasıdır. Özel belgelerinizi internet ortamına yüklemeden PDF'lere barındırdıkları bilgiler hakkında sorular sorabilirsiniz. Uygulama, sorularınıza yanıt verebilmek için OpenAI dil modelini kullanmaktadır. Lütfen uygulamanın yalnızca yüklediğiniz PDF'lerle ilgili sorulara yanıt vereceğini unutmayın.
